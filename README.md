@@ -1,5 +1,4 @@
-### Olá, sou Tavares 🤙🏽  <img align="right" alt="poring" height="120" src="http://img.ragnarokonline.com/news/update/comodo/cha_mage.gif">
-
+### Olá, sou Tavares 🤙🏽  
 
 - 🔭 Trabalhando como desenvolvedor iOS no WillBank.
 - 🌱 Atualmente estudando tecnologias web.
